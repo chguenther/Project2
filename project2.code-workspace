@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"name": "project2",
+			"path": "."
+		},
+		{
+			"name": "data-sourcing-challenge",
+			"path": "../data-sourcing-challenge"
+		},
+		{
+			"name": "CG_11-Unsupervised-Learning",
+			"path": "../../CG_11-Unsupervised-Learning"
+		},
+		{
+			"name": "CG_12-Regression",
+			"path": "../../CG_12-Regression"
+		},
+		{
+			"name": "CG_13-Classification",
+			"path": "../../CG_13-Classification"
+		},
+		{
+			"name": "CG_14-ML-Optimization",
+			"path": "../../CG_14-ML-Optimization"
+		},
+		{
+			"path": "../../Project2_backup"
+		}
+	]
+}
