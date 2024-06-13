@@ -29,7 +29,6 @@ We use the Modified Mercalli Intensity (mmi) scale[^2] to determine the impact a
 - **Support Vector Machine (SVM)**: Handles complex classification tasks and ensures robust separation in high-dimensional spaces.
 - **K Nearest Neighbors (KNN)**: Classifies data points based on the proximity of similar data points.
 - **Decision Tree (DT)**: Classifies data using series of binary decisions organized into a hierarchical tree structure.
-![Models Evaluated](Resources/Images/Models_Evaluated.png)
 
 ## Files
 ### Data Files 
